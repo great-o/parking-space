@@ -1,15 +1,16 @@
----
-a: 100 : bbb
-b: 200 : yyy
----
+# software requirement specification
 
-## software requirement specification
-
-### Project Description
-### Function Requirements
- 
----
-a: 100
-b: 500
----
-
+## Project Description
+## Functional Requirements
+## Non-functional Requirements
+## Glossary
+## Actors
+## Use Case Diagrams
+## Use Case Specifications
+## Business Rules
+## Constraints
+## User Interfaces
+## Reports
+## Class Diagrams
+## Sequence Diagrams
+## Activity Diagrams

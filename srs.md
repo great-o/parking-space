@@ -1,6 +1,6 @@
 ---
-a: 100
-b: 200
+a: 100 : bbb
+b: 200 : yyy
 ---
 
 ## software requirement specification
